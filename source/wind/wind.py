@@ -44,7 +44,7 @@ class cylindrical_coordinates:
     """
      cylindrical coordinates(M, a, W)
      M : speed
-     a : angle
+     a : azimuth angle
      W : vertical velocity
     """
 

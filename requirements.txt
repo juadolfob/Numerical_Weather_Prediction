@@ -1,1 +1,4 @@
 numpy~=1.18.5
+matplotlib~=3.2.2
+setuptools~=49.2.0
+cython~=0.29.21
